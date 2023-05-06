@@ -32,6 +32,7 @@ The following packages are required to run the code:
 - matplotlib
 - seaborn
 - scikit-learn
+- warnings
 
 ## Usage
 
