@@ -15,11 +15,13 @@ The dataset can be downloaded from the following link:
 The following machine learning algorithms were implemented on the Heart Disease Dataset:
 
 - Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Decision Tree
-- Random Forest
 - Support Vector Machine (SVM)
-- Naive Bayes
+- Decision Tree Classifier
+- Random Forest Classifier
+- Bagging Classifier
+- AdaBoost Classifier
+- Gradient Boosting Classifier
+- XGB Classifier
 
 ## Requirements
 
